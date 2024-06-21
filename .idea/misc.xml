@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_add_sliding.xml" value="0.25" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_admin_page.xml" value="0.2359375" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_advance_recipe.xml" value="0.2359375" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_order_recipe.xml" value="0.2359375" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_register_page.xml" value="0.2359375" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/activity_upload_page.xml" value="0.25" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/layout.xml" value="0.46567717996289426" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/product.xml" value="0.25" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/layout/sling.xml" value="0.25" />
+        <entry key="..\:/Users/manda/AndroidStudioProjects/Food_Recipe_Project/app/src/main/res/menu/main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
